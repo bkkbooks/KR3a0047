@@ -110,7 +110,6 @@ markers:
   - {type: 'tls:seg', offset: 156, content: '', id: KR3a0047_tls_050-2a.24}
   - {type: variant, offset: 157, length: 1, content: 眾, WYG: 衆}
   - {type: variant, offset: 157, length: 1, content: 眾, krp: 衆}
-  - {type: substitution, offset: 157, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: punctuation, offset: 161, content: ，, id: KR3a0047_tls_050-bkkpn48}
   - {type: 'tls:seg', offset: 161, content: '', id: KR3a0047_tls_050-2a.25}
   - {type: punctuation, offset: 166, content: ？, id: KR3a0047_tls_050-bkkpn49}
@@ -123,7 +122,6 @@ markers:
   - {type: 'tls:seg', offset: 174, content: '', id: KR3a0047_tls_050-2a.28}
   - {type: variant, offset: 176, length: 1, content: 眾, WYG: 衆}
   - {type: variant, offset: 176, length: 1, content: 眾, krp: 衆}
-  - {type: substitution, offset: 176, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: punctuation, offset: 180, content: ，, id: KR3a0047_tls_050-bkkpn54}
   - {type: 'tls:seg', offset: 180, content: '', id: KR3a0047_tls_050-2a.29}
   - {type: punctuation, offset: 185, content: 。, id: KR3a0047_tls_050-bkkpn55}
@@ -351,7 +349,6 @@ markers:
   - {type: punctuation, offset: 527, content: 「, id: KR3a0047_tls_050-bkkpn169}
   - {type: punctuation, offset: 530, content: ，, id: KR3a0047_tls_050-bkkpn170}
   - {type: 'tls:seg', offset: 530, content: '', id: KR3a0047_tls_050-4a.16}
-  - {type: substitution, offset: 531, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
   - {type: punctuation, offset: 533, content: ，, id: KR3a0047_tls_050-bkkpn171}
   - {type: 'tls:seg', offset: 533, content: '', id: KR3a0047_tls_050-4a.17}
   - {type: punctuation, offset: 536, content: 」, id: KR3a0047_tls_050-bkkpn172}
@@ -441,4 +438,4 @@ markers:
   - {type: variant, offset: 701, length: 0, content: '', WYG: 朱子語類卷五十}
   - {type: variant, offset: 701, length: 0, content: '', krp: 朱子語類卷五十}
   back: []
-hash: sha256:2594f2110422dc560473ebe1db079d31939ec66e115573a911799edcf2a58fbc
+hash: sha256:2c836b9f8a1dbb2d9fb29ebd0788025d57ffc358b52a9d0bcca25d9af1220b84
