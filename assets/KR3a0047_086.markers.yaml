@@ -6178,6 +6178,7 @@ markers:
   - {type: punctuation, offset: 11331, content: 」, id: KR3a0047_tls_086-bkkpn2655}
   - {type: 'tls:seg', offset: 11331, content: '', id: KR3a0047_tls_086-74a.8}
   - {type: punctuation, offset: 11331, content: (, id: KR3a0047_tls_086-bkkpn2656}
+  - {type: 'voice:problem', offset: 11331, length: 0, id: KR3a0047_bkk_086-bkkvprob1, source: parens, bucket: body, code: unmatched-open, message: unmatched '(' at offset 11331}
   - {type: variant, offset: 11333, length: 1, content: 錄, WYG: 録}
   - {type: variant, offset: 11333, length: 1, content: 錄, krp: 録}
   - {type: substitution, offset: 11333, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
@@ -6193,4 +6194,4 @@ markers:
   - {type: variant, offset: 11344, length: 0, content: '', WYG: 朱子語類卷八十六}
   - {type: variant, offset: 11344, length: 0, content: '', krp: 朱子語類卷八十六}
   back: []
-hash: sha256:22b3ceb47916d9005765e7351d3fa7b0e1d168dc7d3620f0a4b446a1975c1e75
+hash: sha256:fba3078a37023f4a649a817fdb450ea6c32e2975397f5a2699754bdd8aac793d

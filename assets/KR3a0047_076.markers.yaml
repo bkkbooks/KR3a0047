@@ -3880,6 +3880,7 @@ markers:
   - {type: 'tls:seg', offset: 5495, content: '', id: KR3a0047_tls_076-39a.1}
   - {type: 'tls:seg', offset: 5495, content: '', id: KR3a0047_tls_076-39a.2}
   - {type: page-break, offset: 5495, content: '', id: KR3a0047_WYG_076-20a, image: WYG0701/WYG0701-0595a.png}
+  - {type: 'voice:problem', offset: 5495, length: 0, id: KR3a0047_bkk_076-bkkvprob1, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 5495 with no matching '('}
   - {type: 'tls:seg', offset: 5499, content: '', id: KR3a0047_tls_076-39a.3}
   - {type: punctuation, offset: 5504, content: ，, id: KR3a0047_tls_076-bkkpn1871}
   - {type: 'tls:seg', offset: 5504, content: '', id: KR3a0047_tls_076-39a.4}
@@ -7376,4 +7377,4 @@ markers:
   - {type: page-break, offset: 11075, content: '', id: KR3a0047_WYG_076-39b, image: WYG0701/WYG0701-0604d.png}
   - {type: variant, offset: 11075, length: 0, content: '', krp: 朱子語類卷七十六}
   back: []
-hash: sha256:7028dad35ad27ab13f932be4bc701e267a80200133b8adf5eaf4a50b6e59f593
+hash: sha256:998650712eb37b12db0608a58418165360bc9a4cf153fd64063cb73547bca13c

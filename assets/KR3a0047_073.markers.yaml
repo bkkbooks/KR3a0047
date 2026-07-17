@@ -4976,6 +4976,7 @@ markers:
   - {type: punctuation, offset: 7440, content: 。, id: KR3a0047_tls_073-bkkpn2410}
   - {type: punctuation, offset: 7440, content: ), id: KR3a0047_tls_073-bkkpn2411}
   - {type: 'tls:seg', offset: 7440, content: '', id: KR3a0047_tls_073-49a.30}
+  - {type: 'voice:problem', offset: 7440, length: 0, id: KR3a0047_bkk_073-bkkvprob1, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 7440 with no matching '('}
   - {type: punctuation, offset: 7447, content: ：, id: KR3a0047_tls_073-bkkpn2412}
   - {type: 'tls:seg', offset: 7447, content: '', id: KR3a0047_tls_073-49a.31}
   - {type: punctuation, offset: 7447, content: 『, id: KR3a0047_tls_073-bkkpn2413}
@@ -9518,4 +9519,4 @@ markers:
   - {type: page-break, offset: 14243, content: '', id: KR3a0047_WYG_073-49b, image: WYG0701/WYG0701-0533d.png}
   - {type: variant, offset: 14243, length: 1, content: 厲, krp: 礪朱子語類卷七十三}
   back: []
-hash: sha256:afb5a526c166c98fa2791030c7a64d4ce8c6736dc4961b0c4926fa9f0194ff85
+hash: sha256:0ddf020c1f23369159d9620d3543c15341ebff9a45840bc958065f3060c3b979

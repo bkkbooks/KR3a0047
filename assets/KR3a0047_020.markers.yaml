@@ -11389,7 +11389,8 @@ markers:
   - {type: 'tls:seg', offset: 17842, content: '', id: KR3a0047_tls_020-118a.9}
   - {type: punctuation, offset: 17842, content: (, id: KR3a0047_tls_020-bkkpn5413}
   - {type: substitution, offset: 17842, original: 榦, replacement: 幹, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16169}}
+  - {type: 'voice:problem', offset: 17842, length: 0, id: KR3a0047_bkk_020-bkkvprob1, source: parens, bucket: body, code: unmatched-open, message: unmatched '(' at offset 17842}
   - {type: variant, offset: 17843, length: 0, content: '', WYG: 朱子語類卷二十}
   - {type: variant, offset: 17843, length: 0, content: '', krp: 朱子語類卷二十}
   back: []
-hash: sha256:a42a8525d4e04407e77ccf3b4fcef9632c8d3e15d3f06545c87a30b9db512a40
+hash: sha256:01cd0c8a3d11443d8aad895f816909b48d2db7904381ae73f682f45eead76ccd

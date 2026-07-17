@@ -10427,7 +10427,8 @@ markers:
   - {type: punctuation, offset: 18047, content: 」, id: KR3a0047_tls_120-bkkpn4365}
   - {type: 'tls:seg', offset: 18047, content: '', id: KR3a0047_tls_120-120a.11}
   - {type: punctuation, offset: 18047, content: (, id: KR3a0047_tls_120-bkkpn4366}
+  - {type: 'voice:problem', offset: 18047, length: 0, id: KR3a0047_bkk_120-bkkvprob1, source: parens, bucket: body, code: unmatched-open, message: unmatched '(' at offset 18047}
   - {type: variant, offset: 18049, length: 0, content: '', WYG: 朱子語類卷一百二十}
   - {type: variant, offset: 18049, length: 0, content: '', krp: 朱子語類卷一百二十}
   back: []
-hash: sha256:403af957f0e442ee592672dc9774d6a64fffef7f899ccd134f0e60d5b0d94cc2
+hash: sha256:71dd63fdcd3fad3c0c17f8b41397cf4fdf72d4c776a3349d77604d549b944734

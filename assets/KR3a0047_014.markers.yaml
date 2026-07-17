@@ -9537,6 +9537,7 @@ markers:
   - {type: punctuation, offset: 15682, content: 」, id: KR3a0047_tls_014-bkkpn4167}
   - {type: 'tls:seg', offset: 15682, content: '', id: KR3a0047_tls_014-107a.15}
   - {type: punctuation, offset: 15682, content: (, id: KR3a0047_tls_014-bkkpn4168}
+  - {type: 'voice:problem', offset: 15682, length: 0, id: KR3a0047_bkk_014-bkkvprob1, source: parens, bucket: body, code: unmatched-open, message: unmatched '(' at offset 15682}
   - {type: punctuation, offset: 15684, content: 。, id: KR3a0047_tls_014-bkkpn4169}
   - {type: 'tls:seg', offset: 15684, content: '', id: KR3a0047_tls_014-107a.16}
   - {type: punctuation, offset: 15685, content: 、, id: KR3a0047_tls_014-bkkpn4170}
@@ -9544,4 +9545,4 @@ markers:
   - {type: page-break, offset: 15686, content: '', id: KR3a0047_WYG_014-54b, image: WYG0700/WYG0700-0246b.png}
   - {type: variant, offset: 15686, length: 0, content: '', krp: 朱子語類卷十四}
   back: []
-hash: sha256:e551e86a81936a8298025943327d00ee2fd14f863fa83c294b0267d52cea012a
+hash: sha256:c950f4492f2fd59e18fde3f0a302325f963d26f6649da4549cad4b90ce80f52f

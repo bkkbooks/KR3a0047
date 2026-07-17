@@ -10187,6 +10187,7 @@ markers:
   - {type: 'tls:seg', offset: 17002, content: '', id: KR3a0047_tls_025-116a.23}
   - {type: 'tls:seg', offset: 17002, content: '', id: KR3a0047_tls_025-116a.24}
   - {type: punctuation, offset: 17002, content: (, id: KR3a0047_tls_025-bkkpn4860}
+  - {type: 'voice:problem', offset: 17002, length: 0, id: KR3a0047_bkk_025-bkkvprob1, source: parens, bucket: body, code: unmatched-open, message: unmatched '(' at offset 17002}
   - {type: punctuation, offset: 17003, content: 。, id: KR3a0047_tls_025-bkkpn4861}
   - {type: 'tls:seg', offset: 17003, content: '', id: KR3a0047_tls_025-116a.25}
   - {type: substitution, offset: 17005, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
@@ -10214,4 +10215,4 @@ markers:
   - {type: variant, offset: 17036, length: 0, content: '', WYG: 朱子語類卷二十五}
   - {type: variant, offset: 17036, length: 0, content: '', krp: 朱子語類卷二十五}
   back: []
-hash: sha256:8dc0e4d513d28c7c10f81e862a639f126ea2d8c13988add46cc5f89105fe2b43
+hash: sha256:dbdf8dc8b0d0d250f1e0c617b84c6ce3fc40a2a5a083ea8b302749d78b6f6967

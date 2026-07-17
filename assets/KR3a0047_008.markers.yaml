@@ -4428,8 +4428,9 @@ markers:
   - {type: punctuation, offset: 7605, content: 」, id: KR3a0047_tls_008-bkkpn1860}
   - {type: 'tls:seg', offset: 7605, content: '', id: KR3a0047_tls_008-55a.29}
   - {type: punctuation, offset: 7605, content: (, id: KR3a0047_tls_008-bkkpn1861}
+  - {type: 'voice:problem', offset: 7605, length: 0, id: KR3a0047_bkk_008-bkkvprob1, source: parens, bucket: body, code: unmatched-open, message: unmatched '(' at offset 7605}
   - {type: variant, offset: 7606, length: 0, content: '', WYG: 朱子語類卷八}
   - {type: page-break, offset: 7606, content: '', id: KR3a0047_WYG_008-28b, image: WYG0700/WYG0700-0137b.png}
   - {type: variant, offset: 7606, length: 0, content: '', krp: 朱子語類卷八}
   back: []
-hash: sha256:0886af783cffeeaf4dacf3297d691b9b6ac10fd88fb08ca2b8b8fb0a6c62382c
+hash: sha256:99da8904f3860a28d4d211e64f7e7cf8c32c3c185a9925066d58a29c745c874c

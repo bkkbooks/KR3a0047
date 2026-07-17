@@ -1161,6 +1161,7 @@ markers:
   - {type: punctuation, offset: 1995, content: 。, id: KR3a0047_tls_137-bkkpn446}
   - {type: punctuation, offset: 1995, content: ), id: KR3a0047_tls_137-bkkpn447}
   - {type: 'tls:seg', offset: 1995, content: '', id: KR3a0047_tls_137-14a.12}
+  - {type: 'voice:problem', offset: 1995, length: 0, id: KR3a0047_bkk_137-bkkvprob1, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 1995 with no matching '('}
   - {type: punctuation, offset: 2007, content: 。, id: KR3a0047_tls_137-bkkpn448}
   - {type: 'tls:seg', offset: 2007, content: '', id: KR3a0047_tls_137-14a.13}
   - {type: punctuation, offset: 2013, content: ，, id: KR3a0047_tls_137-bkkpn449}
@@ -8127,4 +8128,4 @@ markers:
   - {type: variant, offset: 13134, length: 0, content: '', WYG: 朱子語類卷一百三十七}
   - {type: variant, offset: 13134, length: 0, content: '', krp: 朱子語類卷一百三十七}
   back: []
-hash: sha256:e66d5799ad30dc86f4818087a3ec2b38624f1cf52511507d03a7fd72e1beb657
+hash: sha256:d1276caf856ef71cfb5666dcb6dc557ee266fd68396feced3edb1b9cb4e31e49

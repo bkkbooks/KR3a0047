@@ -7996,5 +7996,6 @@ markers:
   - {type: page-break, offset: 11673, content: '', id: KR3a0047_WYG_032-40b, image: WYG0700/WYG0700-0693b.png}
   - {type: variant, offset: 11673, length: 1, content: 榦, krp: 幹朱子語類卷三十二}
   - {type: substitution, offset: 11673, original: 榦, replacement: 幹, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16169}}
+  - {type: 'voice:problem', offset: 11673, length: 0, id: KR3a0047_bkk_032-bkkvprob1, source: parens, bucket: body, code: unmatched-open, message: unmatched '(' at offset 11673}
   back: []
-hash: sha256:175473b7eb6ab6ba4eec3df2f84fe05931629087a3c039495b9626af7f8f535b
+hash: sha256:386f59ecd49644dac0fcb27d844e394b801a2ae23278b501b26be404d17a73da

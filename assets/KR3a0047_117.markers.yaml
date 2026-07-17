@@ -9,6 +9,7 @@ markers:
   - {type: 'tls:seg', offset: 0, content: '', id: KR3a0047_tls_117-1a.1}
   - {type: 'tls:seg', offset: 0, content: '', id: KR3a0047_tls_117-1a.2}
   - {type: punctuation, offset: 0, content: (, id: KR3a0047_tls_117-bkkpn1}
+  - {type: 'voice:problem', offset: 0, length: 40, id: KR3a0047_bkk_117-bkkvprob1, source: parens, bucket: body, code: expected-close, message: 'expected '')'' after ''('' at offset 0, got ''('' at offset 40'}
   - {type: variant, offset: 5, length: 1, content: 第, WYG: ''}
   - {type: variant, offset: 5, length: 1, content: 第, krp: ''}
   - {type: variant, offset: 8, length: 1, content: 一, WYG: ''}
@@ -8497,4 +8498,4 @@ markers:
   - {type: variant, offset: 15119, length: 0, content: '', WYG: 朱子語類卷一百十七}
   - {type: variant, offset: 15119, length: 0, content: '', krp: 朱子語類卷一百十七}
   back: []
-hash: sha256:0f08fdb5291c59ffe815d6abc1b6a223b8d7a715c4609032bdd5b96840b0ea2e
+hash: sha256:9ae5f502b3907c54a08459ef24896aad5c21b76f1881453b3990b8511869716b

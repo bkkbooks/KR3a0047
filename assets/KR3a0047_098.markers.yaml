@@ -16,6 +16,7 @@ markers:
   - {type: variant, offset: 12, length: 1, content: 書, krp: ''}
   - {type: 'tls:seg', offset: 14, content: '', id: KR3a0047_tls_098-1a.3}
   - {type: punctuation, offset: 14, content: (, id: KR3a0047_tls_098-bkkpn1}
+  - {type: 'voice:problem', offset: 14, length: 33, id: KR3a0047_bkk_098-bkkvprob1, source: parens, bucket: body, code: expected-close, message: 'expected '')'' after ''('' at offset 14, got ''('' at offset 47'}
   - {type: punctuation, offset: 22, content: 。, id: KR3a0047_tls_098-bkkpn2}
   - {type: 'tls:seg', offset: 22, content: '', id: KR3a0047_tls_098-1a.4}
   - {type: 'tls:seg', offset: 22, content: '', id: KR3a0047_tls_098-1a.5}
@@ -8160,4 +8161,4 @@ markers:
   - {type: page-break, offset: 12642, content: '', id: KR3a0047_WYG_098-43b, image: WYG0702/WYG0702-0136d.png}
   - {type: variant, offset: 12642, length: 0, content: '', krp: 朱子語類卷九十八}
   back: []
-hash: sha256:c5dece034ccfe824d62509b23a36266d1af10b5e26ae391abd3e03aeba898337
+hash: sha256:4ce08f17dbbd9d0ae40f15148e31d03a8ed92cff3722c613308da28a6cdf536e

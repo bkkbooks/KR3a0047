@@ -5041,6 +5041,7 @@ markers:
   - {type: punctuation, offset: 8235, content: 」, id: KR3a0047_tls_058-bkkpn2284}
   - {type: 'tls:seg', offset: 8235, content: '', id: KR3a0047_tls_058-57a.6}
   - {type: punctuation, offset: 8235, content: (, id: KR3a0047_tls_058-bkkpn2285}
+  - {type: 'voice:problem', offset: 8235, length: 0, id: KR3a0047_bkk_058-bkkvprob1, source: parens, bucket: body, code: unmatched-open, message: unmatched '(' at offset 8235}
   - {type: punctuation, offset: 8237, content: 。, id: KR3a0047_tls_058-bkkpn2286}
   - {type: 'tls:seg', offset: 8237, content: '', id: KR3a0047_tls_058-57a.7}
   - {type: substitution, offset: 8238, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
@@ -5092,4 +5093,4 @@ markers:
   - {type: page-break, offset: 8303, content: '', id: KR3a0047_WYG_058-29b, image: WYG0701/WYG0701-0126b.png}
   - {type: variant, offset: 8303, length: 0, content: '', krp: 朱子語類卷五十八}
   back: []
-hash: sha256:6a8085d30cc9d455fac7a7d39fea11008be138c1684136b105303d209daa2a05
+hash: sha256:42841b9a090576b4dfb2da752959eaae3c80501474a08f180cd7f64b4764138f

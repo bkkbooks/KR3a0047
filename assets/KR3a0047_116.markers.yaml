@@ -5848,5 +5848,6 @@ markers:
   - {type: variant, offset: 10251, length: 1, content: 僩, WYG: 僴朱子語類卷一百十六}
   - {type: page-break, offset: 10251, content: '', id: KR3a0047_WYG_116-34b, image: WYG0702/WYG0702-0367b.png}
   - {type: variant, offset: 10251, length: 1, content: 僩, krp: 僴朱子語類卷一百十六}
+  - {type: 'voice:problem', offset: 10251, length: 0, id: KR3a0047_bkk_116-bkkvprob1, source: parens, bucket: body, code: unmatched-open, message: unmatched '(' at offset 10251}
   back: []
-hash: sha256:73b8b41f4906e15ebd0ac05a1a29bef0ad63cb7dd35fb6f9d254a8a83de7ed2d
+hash: sha256:d8e0a3b6e3183fe4998f1f36a16ea25182862f60d6d70f2ffd35c84f6bda29f8

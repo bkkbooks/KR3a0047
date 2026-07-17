@@ -35,6 +35,7 @@ markers:
   - {type: punctuation, offset: 100, content: 」, id: KR3a0047_tls_050-bkkpn15}
   - {type: 'tls:seg', offset: 100, content: '', id: KR3a0047_tls_050-2a.3}
   - {type: punctuation, offset: 100, content: (, id: KR3a0047_tls_050-bkkpn16}
+  - {type: voice, offset: 100, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 102, content: 。, id: KR3a0047_tls_050-bkkpn17}
   - {type: punctuation, offset: 102, content: ), id: KR3a0047_tls_050-bkkpn18}
   - {type: 'tls:seg', offset: 102, content: '', id: KR3a0047_tls_050-2a.4}
@@ -70,6 +71,7 @@ markers:
   - {type: 'tls:seg', offset: 143, content: '', id: KR3a0047_tls_050-2a.17}
   - {type: 'tls:seg', offset: 143, content: '', id: KR3a0047_tls_050-2a.18}
   - {type: punctuation, offset: 143, content: (, id: KR3a0047_tls_050-bkkpn36}
+  - {type: voice, offset: 143, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 144, content: 。, id: KR3a0047_tls_050-bkkpn37}
   - {type: punctuation, offset: 144, content: ), id: KR3a0047_tls_050-bkkpn38}
   - {type: 'tls:seg', offset: 144, content: '', id: KR3a0047_tls_050-2a.19}
@@ -113,6 +115,7 @@ markers:
   - {type: punctuation, offset: 200, content: 」, id: KR3a0047_tls_050-bkkpn61}
   - {type: 'tls:seg', offset: 200, content: '', id: KR3a0047_tls_050-2a.34}
   - {type: punctuation, offset: 200, content: (, id: KR3a0047_tls_050-bkkpn62}
+  - {type: voice, offset: 200, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 201, content: 。, id: KR3a0047_tls_050-bkkpn63}
   - {type: punctuation, offset: 201, content: ), id: KR3a0047_tls_050-bkkpn64}
   - {type: 'tls:seg', offset: 201, content: '', id: KR3a0047_tls_050-2a.35}
@@ -168,6 +171,7 @@ markers:
   - {type: 'tls:seg', offset: 267, content: '', id: KR3a0047_tls_050-2a.56}
   - {type: 'tls:seg', offset: 267, content: '', id: KR3a0047_tls_050-2a.57}
   - {type: punctuation, offset: 267, content: (, id: KR3a0047_tls_050-bkkpn94}
+  - {type: voice, offset: 267, length: 1, name: note, id: n4}
   - {type: punctuation, offset: 268, content: 。, id: KR3a0047_tls_050-bkkpn95}
   - {type: punctuation, offset: 268, content: ), id: KR3a0047_tls_050-bkkpn96}
   - {type: 'tls:seg', offset: 268, content: '', id: KR3a0047_tls_050-2a.58}
@@ -203,6 +207,7 @@ markers:
   - {type: punctuation, offset: 330, content: 」, id: KR3a0047_tls_050-bkkpn114}
   - {type: 'tls:seg', offset: 330, content: '', id: KR3a0047_tls_050-3a.6}
   - {type: punctuation, offset: 330, content: (, id: KR3a0047_tls_050-bkkpn115}
+  - {type: voice, offset: 330, length: 2, name: note, id: n5}
   - {type: punctuation, offset: 332, content: 。, id: KR3a0047_tls_050-bkkpn116}
   - {type: punctuation, offset: 332, content: ), id: KR3a0047_tls_050-bkkpn117}
   - {type: 'tls:seg', offset: 332, content: '', id: KR3a0047_tls_050-3a.7}
@@ -293,6 +298,7 @@ markers:
   - {type: punctuation, offset: 526, content: 」, id: KR3a0047_tls_050-bkkpn165}
   - {type: 'tls:seg', offset: 526, content: '', id: KR3a0047_tls_050-4a.13}
   - {type: punctuation, offset: 526, content: (, id: KR3a0047_tls_050-bkkpn166}
+  - {type: voice, offset: 526, length: 1, name: note, id: n6}
   - {type: punctuation, offset: 527, content: 。, id: KR3a0047_tls_050-bkkpn167}
   - {type: punctuation, offset: 527, content: ), id: KR3a0047_tls_050-bkkpn168}
   - {type: 'tls:seg', offset: 527, content: '', id: KR3a0047_tls_050-4a.14}
@@ -373,8 +379,9 @@ markers:
   - {type: punctuation, offset: 699, content: ！, id: KR3a0047_tls_050-bkkpn209}
   - {type: 'tls:seg', offset: 699, content: '', id: KR3a0047_tls_050-5a.15}
   - {type: punctuation, offset: 699, content: (, id: KR3a0047_tls_050-bkkpn210}
+  - {type: voice, offset: 699, length: 2, name: note, id: n7}
   - {type: punctuation, offset: 701, content: 。, id: KR3a0047_tls_050-bkkpn211}
   - {type: punctuation, offset: 701, content: ), id: KR3a0047_tls_050-bkkpn212}
   - {type: 'tls:seg', offset: 701, content: '', id: KR3a0047_tls_050-5a.16}
   back: []
-hash: sha256:669e33f042bb19fd49c60afba791dc2df328e6a5c3e87b1fb8504fc90413cbda
+hash: sha256:62a5666360f350b77c003bcc537ecd046840ed0a7421c7b1b99f39284ae300d4

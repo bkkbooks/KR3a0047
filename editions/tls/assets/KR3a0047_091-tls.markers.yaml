@@ -1417,6 +1417,7 @@ markers:
   - {type: punctuation, offset: 3422, content: 。, id: KR3a0047_tls_091-bkkpn761}
   - {type: punctuation, offset: 3422, content: ), id: KR3a0047_tls_091-bkkpn762}
   - {type: 'tls:seg', offset: 3422, content: '', id: KR3a0047_tls_091-23a.17}
+  - {type: 'voice:problem', offset: 3422, length: 0, id: KR3a0047_tls_091-bkkvprob1, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 3422 with no matching '('}
   - {type: punctuation, offset: 3426, content: ，, id: KR3a0047_tls_091-bkkpn763}
   - {type: 'tls:seg', offset: 3426, content: '', id: KR3a0047_tls_091-23a.18}
   - {type: punctuation, offset: 3430, content: ；, id: KR3a0047_tls_091-bkkpn764}
@@ -2702,4 +2703,4 @@ markers:
   - {type: punctuation, offset: 5908, content: 。, id: KR3a0047_tls_091-bkkpn1482}
   - {type: punctuation, offset: 5908, content: ), id: KR3a0047_tls_091-bkkpn1483}
   back: []
-hash: sha256:1518c3c7486e23541b9fa5b779b1f8f6ea5e6949e30d71b20365c44f2d0c6a03
+hash: sha256:e0eea3f18811c0a81a54b4653a93dfa91a5aac4f85a6fca85eff5e6ce9511bfd

@@ -9728,6 +9728,7 @@ markers:
   - {type: punctuation, offset: 17151, content: 」, id: KR3a0047_tls_090-bkkpn4320}
   - {type: 'tls:seg', offset: 17151, content: '', id: KR3a0047_tls_090-113a.18}
   - {type: punctuation, offset: 17151, content: (, id: KR3a0047_tls_090-bkkpn4321}
+  - {type: 'voice:problem', offset: 17151, length: 0, id: KR3a0047_bkk_090-bkkvprob1, source: parens, bucket: body, code: unmatched-open, message: unmatched '(' at offset 17151}
   - {type: punctuation, offset: 17152, content: 。, id: KR3a0047_tls_090-bkkpn4322}
   - {type: 'tls:seg', offset: 17152, content: '', id: KR3a0047_tls_090-113a.19}
   - {type: variant, offset: 17152, length: 0, content: '', WYG: 同}
@@ -9736,4 +9737,4 @@ markers:
   - {type: page-break, offset: 17153, content: '', id: KR3a0047_WYG_090-57b, image: WYG0701/WYG0701-0893d.png}
   - {type: variant, offset: 17153, length: 2, content: 德同, krp: 徳記朱子語類卷九十}
   back: []
-hash: sha256:0922392e2c65d1cbcb7b641db42eca9969fd47d183be0c30457b2376c47dbd98
+hash: sha256:f4f032e6c679ed718a0052929475d8ed4080d24ad77199827623f9e42bd1a119

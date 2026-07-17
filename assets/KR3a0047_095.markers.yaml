@@ -12,6 +12,7 @@ markers:
   - {type: 'tls:seg', offset: 9, content: '', id: KR3a0047_tls_095-1a.2}
   - {type: 'tls:seg', offset: 14, content: '', id: KR3a0047_tls_095-1a.3}
   - {type: punctuation, offset: 14, content: (, id: KR3a0047_tls_095-bkkpn1}
+  - {type: 'voice:problem', offset: 14, length: 175, id: KR3a0047_bkk_095-bkkvprob1, source: parens, bucket: body, code: expected-close, message: 'expected '')'' after ''('' at offset 14, got ''('' at offset 189'}
   - {type: variant, offset: 18, length: 1, content: 錄, WYG: 録}
   - {type: variant, offset: 18, length: 1, content: 錄, krp: 録}
   - {type: substitution, offset: 18, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
@@ -14672,4 +14673,4 @@ markers:
   - {type: variant, offset: 22411, length: 0, content: '', WYG: 朱子語類卷九十五}
   - {type: variant, offset: 22411, length: 0, content: '', krp: 朱子語類卷九十五}
   back: []
-hash: sha256:e4a3de966b697edd870bbfe4ad7afda9584a338fd0e5395438bebc626ec9f140
+hash: sha256:ac35a989fcff0c955079015ad885d6be2fcb6ece41f00bd0e1a4a99608f6f714
